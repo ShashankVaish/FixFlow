@@ -16,5 +16,10 @@
     "url": "https://github.com/ShashankVaish/FixFlow/issues"
   },
   "homepage": "https://github.com/ShashankVaish/FixFlow#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "chromadb": "^3.0.15",
+    "fs-extra": "^11.3.2",
+    "glob": "^11.0.3"
+  }
 }

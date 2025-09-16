@@ -128,6 +128,7 @@ const login = async (req, res) => {
 
     // Fallback for unexpected errors
     return res.status(500).json({
+      
       success: false,
       message: "Something went wrong",
       error: {
